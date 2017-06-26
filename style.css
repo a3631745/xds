@@ -1,0 +1,17 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+
+div{
+	float: left;
+	width: 30vw;
+	height: 30vw;
+  /*padding-bottom: 30%;*/
+	background-color: yellow;
+	margin: 1vw;
+	border: 1px solid #fff;
+	border-radius:10%;
+}
+
